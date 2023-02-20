@@ -16,6 +16,9 @@ Keyboard and Mouse Controls:-
 3. Down keyboard key- To Run the program
 
 Visuals:-
+![ezgif com-optimize](https://user-images.githubusercontent.com/75439638/220182422-679de815-c037-45dd-9e6c-f58a04940452.gif)
+
+
 1. Selecting Walls and End Point
 
 ![image](https://user-images.githubusercontent.com/75439638/220181241-8b8a6603-9cb0-4af5-ac97-cbe230ef1905.png)
