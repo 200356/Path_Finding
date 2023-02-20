@@ -17,11 +17,14 @@ Keyboard and Mouse Controls:-
 
 Visuals:-
 1. Selecting Walls and End Point
+
 ![image](https://user-images.githubusercontent.com/75439638/220181241-8b8a6603-9cb0-4af5-ac97-cbe230ef1905.png)
 
 2. Shortest Path Detected
+
 ![image](https://user-images.githubusercontent.com/75439638/220181302-c469bba5-958d-4e25-9d2d-757e60e21c0d.png)
 
 3. If a path is not possible
+
 ![image](https://user-images.githubusercontent.com/75439638/220181382-e7693058-767d-4c49-b3de-385e9f4d3738.png)
 
