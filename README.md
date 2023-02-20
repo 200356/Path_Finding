@@ -14,3 +14,8 @@ Keyboard and Mouse Controls:-
 1. Left Mouse Click(Drag)- To create Walls
 2. Right Mouse Click- To set end point
 3. Down keyboard key- To Run the program
+
+![image](https://user-images.githubusercontent.com/75439638/220181241-8b8a6603-9cb0-4af5-ac97-cbe230ef1905.png)
+![image](https://user-images.githubusercontent.com/75439638/220181302-c469bba5-958d-4e25-9d2d-757e60e21c0d.png)
+![image](https://user-images.githubusercontent.com/75439638/220181382-e7693058-767d-4c49-b3de-385e9f4d3738.png)
+
